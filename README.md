@@ -2,9 +2,9 @@
 
 A bunch of shell commands re-written in python.
 
-## fetch-reddit
+## fetch-HN
 
-Grabs posts from reddit and either prints them with the `-p` flag or saves them to a textfile with the `-s` command.
+Fetches various things from Hacker News.
 
 ## listem
 
