@@ -2,9 +2,9 @@
 
 A bunch of shell commands re-written in python.
 
-## fetch-HN
+## fetch
 
-Fetches various things from Hacker News.
+Performs get requests for apis.
 
 ## listem
 
